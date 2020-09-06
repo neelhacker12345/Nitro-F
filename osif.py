@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('O S I F').center(44)
+	print ('Nitro-F').center(66)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -62,7 +62,7 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('O S I F').center(44)
+		print ('Nitro-F').center(44)
 		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
 		print ' '
 ####################################################################
