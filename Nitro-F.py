@@ -26,7 +26,7 @@ except ImportError:
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
 	print ('Nitro-F').center(66)
-	print ' '
+	print ['Coded By Neel Hacker'] .center(66)
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
 ####################################################################
