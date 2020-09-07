@@ -63,7 +63,7 @@ def baliho():
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
 		print ('Nitro-F').center(44)
-		print (W + '     [' + G +'Coded By Neel Hacker'+ W + ']')
+		print (W + '           [' + G +'Coded   By   Neel   Hacker'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
